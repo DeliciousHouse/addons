@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.14.0
+- Bump to OTBR POSIX version 2a0ea49d (2025-06-23 17:17:09 +0000)
+- Bump universal-silabs-flasher to 0.0.31
+
 ## 2.13.0
 - Bump to OTBR POSIX version b067e5ac (2025-01-13 22:32:22 -0500)
 - Bump universal-silabs-flasher to 0.0.28
